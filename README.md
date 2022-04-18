@@ -223,7 +223,6 @@ IAMPORT_SECRET
 
 # :smile: BackEnd 팀원 역할
 ## 안지원
-:email: jiwon8518@naver.com  
 
 * `회원가입 API`, `마이페이지 API`, `여행일정 API`, `여행로그 API`, `파일 업로드 API` 생성 및 유지 보수
 * DB Schema 제작
@@ -231,7 +230,6 @@ IAMPORT_SECRET
 * 기타 공유 문서 작업
 
 ## 유한결
-:email: hgyu0830@gmail.com
 
 * `결제 서비스(아임포트) 구현`, `여행족보 검색 기능`, `포인트 후원 API`, `가계부 API` 생성 및 유지 보수
 * 트랜잭션 관리
